@@ -6,8 +6,6 @@ modified: 2016-04-09T21:01:01.523882-04:00
 comments: false
 ---
 
-The current (full) version of my CV can be found [here](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/cv.pdf).
-
 ## Academic achievements
 1. Best Resource Paper Award, EMNLP, 2018
 2. Best Student Paper Award, ICASSP, 2018

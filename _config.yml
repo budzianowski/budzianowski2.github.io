@@ -45,7 +45,7 @@ owner:
   name: Paweł Budzianowski
   avatar: face.jpg
   bio: Machine Learning, Dialogue Systems, Artificial Intelligence
-  email: pfb30@cam.ac.uk
+  email: budzianowski@gmail.com
   disqus-shortname: budzianowski
   google:
     plus: #username
@@ -56,19 +56,6 @@ owner:
   bing-verify:
   github: budzianowski
   google_scholar: sCia-GQAAAAJ
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  linkedin: pawel-budzianowski-698a5a141/
+  linkedin: pawel-budzianowski-698a5a141
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
